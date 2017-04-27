@@ -39,6 +39,7 @@ public class StudentTest {
 		session.save(b1);
 		session.getTransaction().commit();
 		
+		//Hi
 	}
 
 }
